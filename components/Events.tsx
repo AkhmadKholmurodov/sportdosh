@@ -14,7 +14,7 @@ export default function About({}: Props) {
 
         <div className=' space-y-10 px-0 md:px-10'>
             <h4 className=' text-4xl justify-center text-center font-semibold'>Here is a <span className=' underline decoration-[#F7AB0A]'>Good</span> Events</h4>
-            <p className=' text-sm'>Dive into a world of thrilling competition and exciting matchups with our 'Events' page. Stay updated on the latest sports tournaments, leagues, and games happening in your area. Whether you're a seasoned athlete or a spectator, find the pulse of the sports community right here.</p>
+            <p className=' text-sm'>Dive into a world of thrilling competition and exciting matchups with our &apos;Events&apos; page. Stay updated on the latest sports tournaments, leagues, and games happening in your area. Whether you&apos;re a seasoned athlete or a spectator, find the pulse of the sports community right here.</p>
                 <button className='font-serif text-xl p-1 px-3 rounded-lg shadow-lg bg-[#848045] hover:bg-[#9d9611]'>Check Events</button>
         </div>
 

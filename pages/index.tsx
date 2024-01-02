@@ -15,7 +15,7 @@ const Home: NextPage = () => {
   return (
     <div className=' text-white h-screen snap-y snap-mandatory overflow-y-scroll overflow-x-hidden z-0  scrollbar-thin scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/40'>
       <Head>
-        <title>Akhmad's Portfolio</title>
+        <title>Akhmad&apos;s Portfolio</title>
       </Head>
 
       {/* Header */}

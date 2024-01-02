@@ -41,7 +41,7 @@
                             <div className=' px-0 md:px-10 overflow-y-scroll'>
                             <h4 className='text-4xl font-serif mb-6'>Make Your Own Sport Profile </h4>
                             <div className='overflow-y-scroll h-28 list-disc space-y-1 text-lg mb-6'>
-                                <div>Craft your sports identity and showcase your prowess with the 'Make Profile' feature. Build a comprehensive profile that highlights your achievements, favorite sports, and what makes you a standout player. Let the world know who you are, on and off the field, and attract potential partners and teammates.</div>
+                                <div>Craft your sports identity and showcase your prowess with the &apos;Make Profile&apos; feature. Build a comprehensive profile that highlights your achievements, favorite sports, and what makes you a standout player. Let the world know who you are, on and off the field, and attract potential partners and teammates.</div>
                             </div>
                             <motion.button
                                 whileHover={{ scale: 1.1, rotateX: 20 }}

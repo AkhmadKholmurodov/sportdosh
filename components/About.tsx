@@ -27,7 +27,7 @@ export default function About({}: Props) {
         
         <div className=' space-y-10 px-0 md:px-10'>
             <h4 className=' text-4xl justify-center text-center font-semibold'>Here is a <span className=' underline decoration-[#F7AB0A]'>little</span> About Us</h4>
-            <p className=' text-sm'>Curious about the faces behind the game-changing platform? Explore our 'About Us' section and unravel the story of passion, innovation, and dedication that fuels our mission. Get to know the team committed to creating a space where sports enthusiasts unite and flourish</p>
+            <p className=' text-sm'>Curious about the faces behind the game-changing platform? Explore our &apos;About Us&apos; section and unravel the story of passion, innovation, and dedication that fuels our mission. Get to know the team committed to creating a space where sports enthusiasts unite and flourish</p>
         </div>
     </motion.div>
   )
